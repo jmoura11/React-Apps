@@ -1,2 +1,3 @@
-# TODO
-To Do App using React
+# React Apps
+1. Todo app
+2. Recipe App
